@@ -28,5 +28,3 @@ Documentação do Projeto
 PDF
 
 Repositório GIT
-
-asdnfinasdfalss
