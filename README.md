@@ -5,7 +5,7 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
+* Higor Fischer de Paula Lopes
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
