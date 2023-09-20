@@ -6,9 +6,12 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 * Higor Fischer de Paula Lopes
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Priscila Andrade de Moraes
+* Iuri Saad Furtunato Fialho
+* Rodrigo Oliveira Andrade de Vasconcelos
+* Rafael Marcos Almeida Cruz
+* Alvaro Henrique Tavares
+* João de Jesus e Avila
 
 ## Professores responsáveis
 
@@ -18,13 +21,3 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
-## Divisão
-
-Apresentação
-
-Documentação do Projeto
-
-PDF
-
-Repositório GIT
